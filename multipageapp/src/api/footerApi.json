@@ -1,0 +1,17 @@
+[
+  {
+    "icon": "MdPlace",
+    "title": "Visit Us",
+    "details": "123 Main Street, City, Country"
+  },
+  {
+    "icon": "IoCallSharp",
+    "title": "Call Us",
+    "details": "+91 9876543210"
+  },
+  {
+    "icon": "TbMailPause",
+    "title": "Email Us",
+    "details": "contact@example.com"
+  }
+]

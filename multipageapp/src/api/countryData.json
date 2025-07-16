@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "capital": "Delhi",
+    "population": 1452545258,
+    "fact": "We Love India",
+    "colorClass": "bg-blue-box"
+  },
+  {
+    "id": 2,
+    "capital": "Tokyo",
+    "population": 125800000,
+    "fact": "Land of the Rising Sun",
+    "colorClass": "bg-red-box"
+  },
+  {
+    "id": 3,
+    "capital": "Canberra",
+    "population": 25700000,
+    "fact": "Home of Kangaroos",
+    "colorClass": "bg-green-box"
+  },
+  {
+    "id": 4,
+    "capital": "Washington, D.C.",
+    "population": 331000000,
+    "fact": "Land of Freedom",
+    "colorClass": "bg-yellow-box"
+  },
+  {
+    "id": 5,
+    "capital": "London",
+    "population": 68200000,
+    "fact": "The Queen's Land",
+    "colorClass": "bg-purple-box"
+  },
+  {
+    "id": 6,
+    "capital": "Paris",
+    "population": 65200000,
+    "fact": "City of Love",
+    "colorClass": "bg-pink-box"
+  },
+  {
+    "id": 7,
+    "capital": "Berlin",
+    "population": 83100000,
+    "fact": "Known for Engineering",
+    "colorClass": "bg-orange-box"
+  },
+  {
+    "id": 8,
+    "capital": "Ottawa",
+    "population": 38000000,
+    "fact": "Famous for Maple Syrup",
+    "colorClass": "bg-teal-box"
+  },
+  {
+    "id": 9,
+    "capital": "Beijing",
+    "population": 1440000000,
+    "fact": "Home of the Great Wall",
+    "colorClass": "bg-gray-box"
+  },
+  {
+    "id": 10,
+    "capital": "Rome",
+    "population": 60300000,
+    "fact": "Land of Ancient Wonders",
+    "colorClass": "bg-gold-box"
+  }
+]
